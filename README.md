@@ -35,4 +35,4 @@ Helped improve budgeting decisions
 
 .pbix file (Power BI dashboard)
 
-Dataset (Excel/CSV)
+Dataset (CSV)
